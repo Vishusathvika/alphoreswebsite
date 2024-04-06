@@ -1,0 +1,47 @@
+form{
+	border:solid 1px;
+	width: 750px;
+	margin-left: 250px;
+	
+	padding-left:30px;
+	background-color: lavender;
+	padding-bottom: 20px;
+	}
+	h1{
+		text-align: center;
+		font-size: 50px;
+		color: navy;
+	}
+	p{
+		font-size: 20px;
+	}
+	label{
+		font-size: 23px;
+		color: navy;
+		font-weight: bold;
+	}
+	input{
+		width: 450px;
+		height: 35px;
+		background-color:#f2daeb;
+		border-width: 1px;
+		font-size: 20px;
+	}
+	textarea{
+		width: 500px;
+		height: 150px;
+		background-color: #f2daeb;
+		font-size: 20px;
+	
+	}
+	button{
+		width: 160px;
+		height: 60px;
+		border-radius: 15px;
+		background-color: purple;
+		color: white;
+		font-size: 28px;
+	}
+body{
+	background-color: indigo;
+}
